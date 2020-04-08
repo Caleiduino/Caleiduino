@@ -4,7 +4,7 @@ A continuación los pasos a seguir para instalar todo lo necesario para poner tu
 
 Primero abre el enlace de abajo y descarga la IDE de Arduino:
 
-https://www.arduino.cc/en/Main/Software/
+[WEB Arduino](https://www.arduino.cc/en/Main/Software)
 
 Elige el software de acuerdo a tu sistema operativo (Mac o Windows) e instálalo siguiendo las instrucciones. 
 Una vez instalado, ábrelo y tienes que ver abrirse una consola como esta:
