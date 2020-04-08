@@ -13,7 +13,7 @@ Todo el proyecto CALEIDUINO es open source (CC-BY-NC-SA), exceptuando la marca y
 
 ![image](https://user-images.githubusercontent.com/20140969/78698059-03de0980-7902-11ea-8eb8-b0d3a8cd9590.png)
 
-Si deseas tener uno como el que aparece en este repositorio (versión 1.0 y 2.0), puedes adquirirlo accediendo a la web o poniéndote en contacto con el autor en el email:
+Si deseas tener uno como el que aparece en este repositorio ([Versión 1.0](http://www.caleiduino.com/) y [2.0](http://www.caleiduino.com/caleiduino-2-0/)), puedes adquirirlo y construirte uno fácilmente accediendo a la web o poniéndote en contacto con el autor en el siguiente email:
 
 WEB: http://www.caleiduino.com/
 
