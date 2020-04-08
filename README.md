@@ -19,6 +19,8 @@ WEB: http://www.caleiduino.com/
 
 EMAIL: caleiduino@caleiduino.com
 
+![image](https://user-images.githubusercontent.com/20140969/78775825-2bcb7c80-7997-11ea-8970-9653509d8a8d.png)
+
 A continuación el repositorio del sketch básico de Arduino para hacer funcionar el CALEIDUINO, con comentarios y especificaciones que permitan al no iniciado entender como funciona el programa. En breve colgaré más piezas de código con diferentes funcionalidades que permitan a quienes quieran jugar con el caleidoscopio aprender y dejar volar su creatividad.
 
 Si tienes un CALEIDUINO o te has construido el tuyo propio siguiendo las indicaciones del [tutorial DIY](http://www.caleiduino.com/caleiduino-diy/), antes de ponernos a jugar con nuestro artilugio es importante seguir los siguientes pasos, los cuales también vienen especificados con detalle en la [WEB](http://www.caleiduino.com/software/).
