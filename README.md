@@ -23,6 +23,7 @@ A continuación el repositorio del sketch básico de Arduino para hacer funciona
 Antes de de ponernos a jugar con el CALEIDUINO es importante seguir los siguientes pasos, los cuales también vienen especificados en la WEB.
 
 
+
 **1) INSTALACIÓN DE IDE DE ARDUINO Y LAS LIBRERÍAS**
 
 El software que hace funcionar el CALEIDUINO se basa en la IDE de Arduino y en dos librerías que permiten el uso de 
@@ -51,7 +52,8 @@ Una vez descargadas, para instalarlas convenientemente, sigue las instrucciones 
 https://www.arduino.cc/en/Guide/Libraries/
 
 
+
 **2) INSTALACIÓN DEL SKETCH DE CALEIDUINO**
 
-Una vez tengas todo a punto, sólo tienes que copiar el código Caleiduino.ino de este repositorio.
-Es un ejemplo de cómo podemos crear los gráficos y los sonidos con el CALEIDUINO de forma sencilla.
+Una vez tengas todo a punto, sólo tienes que descargar o copiar el código Caleiduino.ino de este repositorio.
+Es un ejemplo de cómo podemos crear los gráficos y los sonidos con el CALEIDUINO de forma sencilla. Para más información, accede a la web. 
