@@ -1,7 +1,7 @@
 ![image](https://user-images.githubusercontent.com/20140969/78697360-faa06d00-7900-11ea-960d-77e91eeea3ff.png)
 ![image](https://user-images.githubusercontent.com/20140969/78697504-2facbf80-7901-11ea-862b-0bddbd8652e9.png)
 
-CALEIDUINO es un caleidoscopio digital sonoro interactivo basado en Arduino. CALEIDUINO es un juguete, un objeto artístico y una herramienta para aprender electrónica y programación de una forma lúdica y creativa.
+**CALEIDUINO** es un caleidoscopio digital sonoro interactivo basado en Arduino. CALEIDUINO es un juguete, un objeto artístico y una herramienta para aprender electrónica y programación de una forma lúdica y creativa.
 
 El  corazón del CALEIDUINO es una placa PCB a la que se conectan una Arduino nano 3.0, una pantalla TFT 1.8′, un acelerómetro analógico de 3 ejes GY-61, un piezoeléctrico, un interruptor y una batería de 9V. Como en cualquier caleidoscopio al uso, se le añaden 3 espejos en forma de prisma triangular. Una carcasa de metacrilato le da la forma externa. La idea es, como en los caleidoscopios analógicos, utilizar el movimiento del usuario (recogido mediante el acelerómetro) para generar gráficos y sonidos.
 
@@ -22,7 +22,8 @@ A continuación el repositorio del sketch básico de Arduino para hacer funciona
 
 Antes de de ponernos a jugar con el CALEIDUINO es importante seguir los siguientes pasos, los cuales también vienen especificados en la WEB.
 
-1) INSTALACIÓN DE IDE DE ARDUINO Y LAS LIBRERÍAS
+
+**1) INSTALACIÓN DE IDE DE ARDUINO Y LAS LIBRERÍAS**
 
 El software que hace funcionar el CALEIDUINO se basa en la IDE de Arduino y en dos librerías que permiten el uso de 
 pantallas TFT (la nuestra es de 1.8′), la librería ST7735 y la librería GFX, ambas de Adafruit. 
@@ -49,7 +50,8 @@ Una vez descargadas, para instalarlas convenientemente, sigue las instrucciones 
 
 https://www.arduino.cc/en/Guide/Libraries/
 
-2) INSTALACIÓN DEL SKETCH DE CALEIDUINO
+
+**2) INSTALACIÓN DEL SKETCH DE CALEIDUINO**
 
 Una vez tengas todo a punto, sólo tienes que copiar el código Caleiduino.ino de este repositorio.
 Es un ejemplo de cómo podemos crear los gráficos y los sonidos con el CALEIDUINO de forma sencilla.
