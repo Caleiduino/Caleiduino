@@ -19,3 +19,37 @@ WEB: http://www.caleiduino.com/
 EMAIL: caleiduino@caleiduino.com
 
 A continuación el repositorio del sketch básico de Arduino para hacer funcionar el CALEIDUINO, con comentarios y especificaciones que permitan al no iniciado entender como funciona el programa. En breve colgaré más piezas de código con diferentes funcionalidades que permitan a quienes quieran jugar con el caleidoscopio aprender y dejar volar su creatividad.
+
+Antes de de ponernos a jugar con el CALEIDUINO es importante seguir los siguientes pasos, los cuales también vienen especificados en la WEB.
+
+1) INSTALACIÓN DE IDE DE ARDUINO Y LAS LIBRERÍAS
+
+El software que hace funcionar el CALEIDUINO se basa en la IDE de Arduino y en dos librerías que permiten el uso de 
+pantallas TFT (la nuestra es de 1.8′), la librería ST7735 y la librería GFX, ambas de Adafruit. 
+A continuación los pasos a seguir para instalar todo lo necesario para poner tu CALEIDUINO a funcionar.
+
+Primero abre el enlace de abajo y descarga la IDE de Arduino:
+
+https://www.arduino.cc/en/Main/Software
+
+Elige el software de acuerdo a tu sistema operativo (Mac o Windows) e instálalo siguiendo las instrucciones. 
+Una vez instalado, ábrelo y tienes que ver abrirse una consola como esta:
+
+![image](https://user-images.githubusercontent.com/20140969/78769742-05edaa00-798e-11ea-88fd-03e54a50afaa.png)
+
+Después acude a la web de Adafruit y descarga la librería Adafruit_ST7735:
+
+https://github.com/adafruit/Adafruit-ST7735-Library/
+
+Y la librería GFX:
+
+https://github.com/adafruit/Adafruit-GFX-Library/
+
+Una vez descargadas, para instalarlas convenientemente, sigue las instrucciones siguientes:
+
+https://www.arduino.cc/en/Guide/Libraries/
+
+2) INSTALACIÓN DEL SKETCH DE CALEIDUINO
+
+Una vez tengas todo a punto, sólo tienes que copiar el código Caleiduino.ino de este repositorio.
+Es un ejemplo de cómo podemos crear los gráficos y los sonidos con el CALEIDUINO de forma sencilla.
