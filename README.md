@@ -57,4 +57,4 @@ https://www.arduino.cc/en/Guide/Libraries/
 **2) INSTALACIÓN DEL SKETCH DE CALEIDUINO**
 
 Una vez tengas todo a punto, sólo tienes que descargar o copiar el código [Caleiduino.ino](https://github.com/Caleiduino/Caleiduino/blob/master/Caleiduino_1.ino) de este repositorio.
-Es un ejemplo de cómo podemos crear los gráficos y los sonidos con el CALEIDUINO de forma sencilla. Para más información, accede a la web. 
+Es un ejemplo de cómo podemos crear los gráficos y los sonidos con el CALEIDUINO de forma sencilla. Para más información, accede a la [web](http://www.caleiduino.com/software/). 
