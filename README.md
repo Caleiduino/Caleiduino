@@ -21,7 +21,7 @@ EMAIL: caleiduino@caleiduino.com
 
 A continuación el repositorio del sketch básico de Arduino para hacer funcionar el CALEIDUINO, con comentarios y especificaciones que permitan al no iniciado entender como funciona el programa. En breve colgaré más piezas de código con diferentes funcionalidades que permitan a quienes quieran jugar con el caleidoscopio aprender y dejar volar su creatividad.
 
-Antes de de ponernos a jugar con el CALEIDUINO es importante seguir los siguientes pasos, los cuales también vienen especificados en la WEB.
+Antes de de ponernos a jugar con el CALEIDUINO es importante seguir los siguientes pasos, los cuales también vienen especificados en la [WEB](http://www.caleiduino.com/software/).
 
 
 
@@ -57,4 +57,4 @@ https://www.arduino.cc/en/Guide/Libraries/
 **2) INSTALACIÓN DEL SKETCH DE CALEIDUINO**
 
 Una vez tengas todo a punto, sólo tienes que descargar o copiar el código [Caleiduino.ino](https://github.com/Caleiduino/Caleiduino/blob/master/Caleiduino_1.ino) de este repositorio.
-Es un ejemplo de cómo podemos crear los gráficos y los sonidos con el CALEIDUINO de forma sencilla. Para más información, accede a la [web](http://www.caleiduino.com/software/). 
+Es un ejemplo de cómo podemos crear los gráficos y los sonidos con el CALEIDUINO de forma sencilla. Para más información, accede a la [WEB](http://www.caleiduino.com/software/). 
