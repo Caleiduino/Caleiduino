@@ -1,6 +1,8 @@
 ![image](https://user-images.githubusercontent.com/20140969/78697360-faa06d00-7900-11ea-960d-77e91eeea3ff.png)
 ![image](https://user-images.githubusercontent.com/20140969/78697504-2facbf80-7901-11ea-862b-0bddbd8652e9.png)
 
+###CALEIDUINO
+
 **CALEIDUINO** es un caleidoscopio digital sonoro interactivo basado en Arduino. CALEIDUINO es un juguete, un objeto artístico y una herramienta para aprender electrónica y programación de una forma lúdica y creativa.
 
 El  corazón del CALEIDUINO es una placa PCB a la que se conectan una Arduino nano 3.0, una pantalla TFT 1.8′, un acelerómetro analógico de 3 ejes GY-61, un piezoeléctrico, un interruptor y una batería de 9V. Como en cualquier caleidoscopio al uso, se le añaden 3 espejos en forma de prisma triangular. Una carcasa de metacrilato le da la forma externa. La idea es, como en los caleidoscopios analógicos, utilizar el movimiento del usuario (recogido mediante el acelerómetro) para generar gráficos y sonidos.
@@ -39,11 +41,11 @@ Una vez instalado, ábrelo y tienes que ver abrirse una consola como esta:
 
 ![image](https://user-images.githubusercontent.com/20140969/78769742-05edaa00-798e-11ea-88fd-03e54a50afaa.png)
 
-Después acude a la web de Adafruit y descarga la librería Adafruit_ST7735:
+Después descarga la librería **Adafruit_ST7735**:
 
 https://github.com/adafruit/Adafruit-ST7735-Library/
 
-Y la librería GFX:
+Y la librería **GFX**:
 
 https://github.com/adafruit/Adafruit-GFX-Library/
 
