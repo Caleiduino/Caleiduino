@@ -1,33 +1,3 @@
-El software que hace funcionar el CALEIDUINO se basa en la IDE de Arduino y en dos librerías que permiten el uso de 
-pantallas TFT (la nuestra es de 1.8′), la librería ST7735 y la librería GFX, ambas de Adafruit. 
-A continuación los pasos a seguir para instalar todo lo necesario para poner tu CALEIDUINO a funcionar.
-
-Primero abre el enlace de abajo y descarga la IDE de Arduino:
-
-https://www.arduino.cc/en/Main/Software
-
-Elige el software de acuerdo a tu sistema operativo (Mac o Windows) e instálalo siguiendo las instrucciones. 
-Una vez instalado, ábrelo y tienes que ver abrirse una consola como esta:
-
-![image](https://user-images.githubusercontent.com/20140969/78769742-05edaa00-798e-11ea-88fd-03e54a50afaa.png)
-
-Después acude a la web de Adafruit y descarga la librería Adafruit_ST7735:
-
-https://github.com/adafruit/Adafruit-ST7735-Library/
-
-Y la librería GFX:
-
-https://github.com/adafruit/Adafruit-GFX-Library/
-
-Una vez descargadas, para instalarlas convenientemente, sigue las instrucciones siguientes:
-
-https://www.arduino.cc/en/Guide/Libraries/
-
-Una vez tengas todo a punto, sólo tienes que copiar el código de abajo.
-Es un ejemplo de cómo podemos crear los gráficos y los sonidos con el CALEIDUINO de forma sencilla.
-
-
-`
 /*****************************************************************
 
        xxxx  xxxx  x     xxxx  x  xxx   x  x  x  x  x  xxxx
@@ -45,7 +15,7 @@ cualquiera que desee crear su propio CALEIDUINO.
 
 ¡¡Animate y crea tu propio caleidoscopio digital sonoro!!
 
-(CC) Jose Manuel Gonzalez 2016
+(CC) Jose Manuel Gonzalez 2018
  
 ******************************************************************/
 
@@ -233,5 +203,3 @@ val1 = 1; }
 delay(val1); } 
 
 // FIN
-
-`
