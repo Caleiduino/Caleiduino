@@ -1,10 +1,13 @@
-El software que hace funcionar el CALEIDUINO se basa en la IDE de Arduino y en dos librerías que permiten el uso de pantallas TFT (la nuestra es de 1.8′), la librería ST7735 y la librería GFX, ambas de Adafruit. A continuación los pasos a seguir para instalar todo lo necesario para poner tu CALEIDUINO a funcionar.
+El software que hace funcionar el CALEIDUINO se basa en la IDE de Arduino y en dos librerías que permiten el uso de 
+pantallas TFT (la nuestra es de 1.8′), la librería ST7735 y la librería GFX, ambas de Adafruit. 
+A continuación los pasos a seguir para instalar todo lo necesario para poner tu CALEIDUINO a funcionar.
 
 Primero abre el enlace de abajo y descarga la IDE de Arduino:
 
 https://www.arduino.cc/en/Main/Software
 
-Elige el software de acuerdo a tu sistema operativo e instálalo siguiendo las instrucciones. Una vez instalado, ábrelo y tienes que ver abrirse una consola como esta:
+Elige el software de acuerdo a tu sistema operativo (Mac o Windows) e instálalo siguiendo las instrucciones. 
+Una vez instalado, ábrelo y tienes que ver abrirse una consola como esta:
 
 arduino_ide
 
@@ -20,4 +23,5 @@ Una vez descargadas, para instalarlas convenientemente, sigue las instrucciones 
 
 https://www.arduino.cc/en/Guide/Libraries
 
-Una vez tengas todo a punto, sólo tienes que descargarte el siguiente sketch de Arduino o copiar el código del recuadro de abajo. Es un ejemplo de cómo podemos crear los gráficos y los sonidos con el CALEIDUINO de forma sencilla.
+Una vez tengas todo a punto, sólo tienes que descargarte el siguiente sketch de Arduino o copiar el código 
+del recuadro de abajo. Es un ejemplo de cómo podemos crear los gráficos y los sonidos con el CALEIDUINO de forma sencilla.
