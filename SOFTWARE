@@ -4,7 +4,7 @@ A continuación los pasos a seguir para instalar todo lo necesario para poner tu
 
 Primero abre el enlace de abajo y descarga la IDE de Arduino:
 
-https://www.arduino.cc/en/Main/Software
+https://www.arduino.cc/en/Main/Software/
 
 Elige el software de acuerdo a tu sistema operativo (Mac o Windows) e instálalo siguiendo las instrucciones. 
 Una vez instalado, ábrelo y tienes que ver abrirse una consola como esta:
@@ -13,15 +13,15 @@ Una vez instalado, ábrelo y tienes que ver abrirse una consola como esta:
 
 Después acude a la web de Adafruit y descarga la librería Adafruit_ST7735:
 
-https://github.com/adafruit/Adafruit-ST7735-Library
+https://github.com/adafruit/Adafruit-ST7735-Library/
 
 Y la librería GFX:
 
-https://github.com/adafruit/Adafruit-GFX-Library
+https://github.com/adafruit/Adafruit-GFX-Library/
 
 Una vez descargadas, para instalarlas convenientemente, sigue las instrucciones siguientes:
 
-https://www.arduino.cc/en/Guide/Libraries
+https://www.arduino.cc/en/Guide/Libraries/
 
 Una vez tengas todo a punto, sólo tienes que copiar el código de abajo.
 Es un ejemplo de cómo podemos crear los gráficos y los sonidos con el CALEIDUINO de forma sencilla.
