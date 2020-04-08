@@ -1,7 +1,7 @@
 ![image](https://user-images.githubusercontent.com/20140969/78697360-faa06d00-7900-11ea-960d-77e91eeea3ff.png)
 ![image](https://user-images.githubusercontent.com/20140969/78697504-2facbf80-7901-11ea-862b-0bddbd8652e9.png)
 
-###CALEIDUINO
+#######CALEIDUINO#######
 
 **CALEIDUINO** es un caleidoscopio digital sonoro interactivo basado en Arduino. CALEIDUINO es un juguete, un objeto artístico y una herramienta para aprender electrónica y programación de una forma lúdica y creativa.
 
